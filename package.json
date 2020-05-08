@@ -1,0 +1,28 @@
+{
+  "name": "webRTC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandreNascimentoIFPE/webRTC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandreNascimentoIFPE/webRTC/issues"
+  },
+  "homepage": "https://github.com/alexandreNascimentoIFPE/webRTC#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.5.1",
+    "semantic-ui-css": "^2.4.1",
+    "simplewebrtc": "^3.0.2"
+  }
+}
